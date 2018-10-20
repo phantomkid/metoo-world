@@ -1,5 +1,7 @@
 # metoo-world
 
+geocode tweets and visualize outrage concentration!
+
 # TODO
 
 - Backend
